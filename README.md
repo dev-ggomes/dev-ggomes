@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social)](https://github.com/GomesGuilhermePT07)
 
 <!-- Light Mode -->
-<div display="flex">
+<div display="absolute">
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GomesGuilhermePT07&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Guilherme Gomes's Language stats" />

@@ -1,11 +1,26 @@
-## Guilherme Gomes
+### Hi 👋🏽, I'm Guilherme Gomes
 
-<div>
-  <a href="https://beacons.ai/GomesGuilhermePT07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&include_all_commits=true&<count_private=true"/>
+[![Github](https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social)](https://github.com/GomesGuilhermePT07)
+
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GomesGuilhermePT07&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Guilherme Gomes's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GomesGuilhermePT07&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Guilherme Gomes's Github stats" />
+</a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilhermePT07&theme=tokyonight)
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GomesGuilhermePT07&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Guilherme Gomes's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Guilherme Gomes's Github stats" />
+</a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gomes-Js" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

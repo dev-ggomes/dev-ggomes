@@ -13,13 +13,13 @@
 </div>
 
 <!-- Dark Mode -->
-<div align="center"> 
+<!--<div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GomesGuilhermePT07&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Guilherme Gomes's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Guilherme Gomes's Github stats" />
-</a>
+</a>-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 70%; margin-top: 20px;" />
+</div>
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,10 +32,18 @@
   <img align="center" alt="Gomes-PHP" height="30" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 
-## 
-<div> 
-  <a href="https://instagram.com/wg_gom3z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gomesguilherme.pt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-gomes-626193343/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
 
+## 🌐 Contacts 
+
+[![Gmail](https://img.shields.io/badge/Gmail-808080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomesguilherme.pt@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wg_gom3z)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gomes)  
+
+---
+
+## 🚀 About me
+
+🔞 18yo.  
+💻 Coding since 2022!  
+💡 In love with the idea of improving the tech world.  

@@ -2,33 +2,22 @@
 
 [![Github](https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social)](https://github.com/GomesGuilhermePT07)
 
-<!--
-<div style="display: inline_block">
-  <img align="center" alt="Gomes-Js" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gomes-HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gomes-CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gomes-Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gomes-C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
-  <img align="center" alt="Gomes-Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" >
-  <img align="center" alt="Gomes-PHP" height="30" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-</div>
+Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
+
+## 🚀 About me
+
+🔞 18yo.  
+👨🏽‍💻 Coding since 2022!  
+🌍 Portuguese programmer.  
+💡 In love with the idea of improving the tech world.  
 
 ---
--->
 
 ## 🌐 Contacts 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomesguilherme.pt@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wg_gom3z)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gomes)  
-
----
-
-## 🚀 About me
-
-🔞 18yo.  
-👨🏽‍💻 Coding since 2022!  
-💡 In love with the idea of improving the tech world.  
 
 ---
 
@@ -42,16 +31,14 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <!--<img src="https://img.shields.io/badge/%20Lisboa-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 | Lisboa" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=white" alt="ClickUp" />-->
 </div>
 
 ---
 <!--
-## 🗓 Nowadays
+## 🗓 Nowadays studying at
 
-📚 <img src="https://img.shields.io/badge/%20Lisboa-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 | Lisboa" />  
-🎓 
+<img src="https://img.shields.io/badge/%20Lisboa-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 | Lisboa" />  
+
 
 ---
 -->
@@ -62,10 +49,20 @@
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=white" alt="ClickUp" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+---
+
+## 🖥 Compilers I'm used to work with
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" alt="Adobe Dreamweaver" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ Idea" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
 </div>
 
 ---

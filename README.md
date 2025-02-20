@@ -1,7 +1,4 @@
 # Hi 👋🏽, I'm Guilherme Gomes
-
-![snake gif](https://github.com/GomesGuilhermePT07/GomesGuilhermePT07/blob/output/github-contribution-grid-snake.gif)
-
 Welcome to my portfolio! Here you can find some curiosities about me and even contact me.  
 
 [![Github](https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social)](https://github.com/GomesGuilhermePT07)

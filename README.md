@@ -1,5 +1,6 @@
 # Hi 👋🏽, I'm Guilherme Gomes
-Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
+Welcome to my portfolio! Here you can find some curiosities about me and even contact me.  
+
 [![Github](https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social)](https://github.com/GomesGuilhermePT07)
 
 ## 🚀 About me

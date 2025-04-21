@@ -22,8 +22,8 @@
 
   <p align="center">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 350px; align-items: left;"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 400px; align-items: right;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 400px;"/>
       <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 34%;"/>-->
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
     </a>

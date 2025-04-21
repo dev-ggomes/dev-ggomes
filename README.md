@@ -40,7 +40,7 @@
   </p>
   
   <p align="center">
-    📫 How to reach me: <a href="mailto: gomesguilherme.pt@gmail.com">gomesguilherme.pt@gmail.com</a>
+    📫 How to reach me: <a href="mailto:gomesguilherme.pt@gmail.com">gomesguilherme.pt@gmail.com</a>
   </p>
 
   <details>

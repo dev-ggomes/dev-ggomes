@@ -20,10 +20,20 @@
    <img src="https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social">
   </p>
 
-  <p align="center">
+  <p align="left">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 428px;"/>
+    </a>
+  </p>
+
+  <p align="right">
+    <a href="#">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 450px;"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="#">
       <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 34%;"/>-->
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
     </a>

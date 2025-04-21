@@ -5,10 +5,7 @@
   <p align="center">
     Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
   </p>
-  
-  ![Github](https://komarev.com/ghpvc/?username=GomesGuilhermePT07&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat&abbreviated=true)  
-  [![Github](https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social)](https://github.com/GomesGuilhermePT07)
-
+ 
   <p align="center">
     <a href="https://github.com/sponsors/GomesGuilhermePT07">
       <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
@@ -16,6 +13,11 @@
     <a href="https://www.linkedin.com/in/guilherme-gomes/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+  </p>
+
+  <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=GomesGuilhermePT07&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat&abbreviated=true">
+   <img src="https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social">
   </p>
 
   <p align="center">

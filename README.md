@@ -22,13 +22,13 @@
 
   <p align="left">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 428px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 350px;"/>
     </a>
   </p>
 
   <p align="right">
     <a href="#">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 450px;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 400px;"/>
     </a>
   </p>
 

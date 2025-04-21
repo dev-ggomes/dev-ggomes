@@ -20,15 +20,15 @@
    <img src="https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social">
   </p>
 
-  <p align="left">
+  <p >
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 350px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 350px; align-items: left;"/>
     </a>
   </p>
 
-  <p align="right">
+  <p >
     <a href="#">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 400px;"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 400px; align-items: right;"/>
     </a>
   </p>
 

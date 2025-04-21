@@ -1,6 +1,4 @@
-<!-- <div align="center"> -->
-  
-  # Hi 👋🏽, I'm Guilherme Gomes
+# Hi 👋🏽, I'm Guilherme Gomes
 
   <p align="center">
     Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
@@ -103,5 +101,39 @@
   </div>
 
   </details>
+
+<!-- adicionar specs -->
+<!--
+  <details>
+    <summary>💻 My PC</summary>
+
+   - **Graphic Card:**\
+  Nvidia RTX 4080 SUPER
+   
+   - **Motherboard:**\
+  <!-- escreve aqui 
   
-<!-- </div> -->
+   - **CPU:**\
+  AMD Ryzen 7 9800X3D
+
+   - **SSD:**\
+  <!-- escreve aqui 
+  
+   - **Power Supply Unit:**\
+  <!-- escreve aqui 
+  
+   - **RAM:**\
+  <!-- escreve aqui 
+  
+   - **Water Cooler:**\
+  Artic Liquid Freezer III 240
+
+   - **Case:**\
+  White DarkFlash
+
+   - **Ports:**\
+  <!-- escreve aqui 
+  
+  </details> 
+  
+-->

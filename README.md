@@ -120,19 +120,20 @@
   Nvidia RTX 4080 SUPER
    
    - **Motherboard:**\
-  <!-- escreve aqui 
+  Asus TUF Gaming B650-E WIFI 
   
    - **CPU:**\
   AMD Ryzen 7 9800X3D
 
    - **SSD:**\
-  <!-- escreve aqui 
+  Crucial P3 Plus 1TB 5000/3600MB\
+  Crucial P3 4TB
   
    - **Power Supply Unit:**\
-  <!-- escreve aqui 
+  FSP Vita GM ATX3 1000W 
   
    - **RAM:**\
-  <!-- escreve aqui 
+  G.SKILL RIPJAWS S5 32GB 5600 
   
    - **Water Cooler:**\
   Artic Liquid Freezer III 240

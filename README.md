@@ -18,17 +18,27 @@
    <img src="https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social">
   </p>
 
+  <!--
+  \\\\\\\ CASO ALGUM DÊ ERRO ///////
+  
   <p align="center">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
       
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 424px;"/>
       
-      <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 34%;"/>-->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
     </a>
   </p>
-  
+  -->
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 16rem;"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 44rem;"/>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>-->
+  </a>
+</p>
   <p align='center'>
     💻 My workspace<br/><br/>
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -73,14 +83,11 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
   </div>
 
-  <!--
+ <!--
   ## 🗓 Nowadays studying at
   
   <img src="https://img.shields.io/badge/%20Lisboa-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 | Lisboa" />  
-  
-  
-  ---
-  -->
+ -->
 
   ## Aplications I use/d
   

@@ -112,7 +112,7 @@
   </details>
 
 <!-- adicionar specs -->
-<!--
+
   <details>
     <summary>💻 My PC</summary>
 
@@ -142,8 +142,8 @@
   White DarkFlash
 
    - **Ports:**\
-  <!-- escreve aqui 
+  <!-- escreve aqui --> 
   
   </details> 
   
--->
+<!---->

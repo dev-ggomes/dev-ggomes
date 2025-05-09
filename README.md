@@ -3,7 +3,8 @@
   <p align="center">
     Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
   </p>
- 
+
+  <!-- \\\\\\\ - SPONSOR & LINKEDIN LINKS - /////// -->
   <p align="center">
     <a href="https://github.com/sponsors/GomesGuilhermePT07">
       <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
@@ -13,6 +14,7 @@
     </a>
   </p>
 
+<!-- \\\\\\\ - PROFILE VIEWS & FOLLOW BUTTON - /////// -->
   <p align="center">
    <img src="https://komarev.com/ghpvc/?username=GomesGuilhermePT07&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat&abbreviated=true">
    <img src="https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social">
@@ -20,7 +22,7 @@
 
   <!--
   \\\\\\\ CASO ALGUM DÊ ERRO ///////
-  
+  -->
   <p align="center">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
@@ -30,15 +32,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
     </a>
   </p>
-  -->
+  <!---->
 
+<!-- \\\\\\\ - OUTRA MANEIRA DE APRESENTAR OS DADOS - /////// -->
+<!--
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 14rem;"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 38rem;"/>
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>-->
   </a>
 </p>
+-->
+
   <p align='center'>
     💻 My workspace<br/><br/>
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />

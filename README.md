@@ -16,19 +16,19 @@
 
 <!-- \\\\\\\ - PROFILE VIEWS & FOLLOW BUTTON - /////// -->
   <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=GomesGuilhermePT07&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat&abbreviated=true">
-   <img src="https://img.shields.io/github/followers/GomesGuilhermePT07?label=Follow&style=social">
+   <img src="https://komarev.com/ghpvc/?username=dev-ggomes&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat&abbreviated=true">
+   <img src="https://img.shields.io/github/followers/dev-ggomes?label=Follow&style=social">
   </p>
 
   <!-- \\\\\\\ CASO ALGUM DÊ ERRO /////// -->
   <!--
   <p align="center">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=GomesGuilhermePT07&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=dev-ggomes&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
       
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's streak" style="width: 424px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ggomes&theme=dracula" alt="Guilherme Gomes's streak" style="width: 424px;"/>
       
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ggomes&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
     </a>
   </p>
   -->
@@ -38,8 +38,8 @@
 <!---->
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 14rem;"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GomesGuilhermePT07&theme=dracula" alt="Guilherme Gomes's stats" style="width: 38rem;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ggomes&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 14rem;"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ggomes&theme=dracula" alt="Guilherme Gomes's stats" style="width: 38rem;"/>
   </a>
 </p>
 <!---->

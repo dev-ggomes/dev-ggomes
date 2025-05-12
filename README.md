@@ -6,7 +6,7 @@
 
   <!-- \\\\\\\ - SPONSOR & LINKEDIN LINKS - /////// -->
   <p align="center">
-    <a href="https://github.com/sponsors/GomesGuilhermePT07">
+    <a href="https://github.com/sponsors/dev-ggomes">
       <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
     </a>
     <a href="https://www.linkedin.com/in/ggom3s/">

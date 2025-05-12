@@ -31,7 +31,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ggomes&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
     </a>
   </p>
-  -->
   <!---->
 
 <!-- \\\\\\\ - OUTRA MANEIRA DE APRESENTAR OS DADOS - /////// -->

@@ -21,7 +21,7 @@
   </p>
 
   <!-- \\\\\\\ CASO ALGUM DÊ ERRO /////// -->
-  <!--
+  <!---->
   <p align="center">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=dev-ggomes&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
@@ -34,7 +34,7 @@
   <!---->
 
 <!-- \\\\\\\ - OUTRA MANEIRA DE APRESENTAR OS DADOS - /////// -->
-<!---->
+<!--
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ggomes&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 14rem;"/>

@@ -24,7 +24,7 @@
   <!---->
   <p align="center">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=dev-ggomes&show_icons=true&theme=tokyo&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=dev-ggomes&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
       
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ggomes&theme=dracula" alt="Guilherme Gomes's streak" style="width: 424px;"/>
       

@@ -37,7 +37,6 @@
 <!---->
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-ggomes&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ggomes&theme=dracula" alt="Guilherme Gomes's most used languages" style="width: 14rem;"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ggomes&theme=dracula" alt="Guilherme Gomes's stats" style="width: 38rem;"/>
   </a>

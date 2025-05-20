@@ -62,6 +62,8 @@
   <details>
     <summary>📃 Resume</summary>
 
+<div align="center">
+  
   ## 🚀 About me
   
   🔞 18yo.  
@@ -69,7 +71,7 @@
   🌍 Portuguese programmer.  
   💡 In love with the idea of improving the tech world.
     
-## 🌐 Contacts
+  ## 🌐 Contacts
 
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ggom3s)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wg_gom3z)
@@ -88,9 +90,11 @@
   </div>
 
  <!--
+ 
   ## 🗓 Nowadays studying at
   
   <img src="https://img.shields.io/badge/%20Lisboa-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 | Lisboa" />  
+    
  -->
 
   ## Aplications I use/d
@@ -112,11 +116,11 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ Idea" />
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
   </div>
+</div>
 
   </details>
 
 <!-- adicionar specs -->
-<!--
   <details>
     <summary>💻 My PC</summary>
 
@@ -144,10 +148,5 @@
 
    - **Case:**\
   White DarkFlash
-
-   - **Ports:**\
-  <!-- escreve aqui 
   
   </details> 
-  
--->

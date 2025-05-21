@@ -45,7 +45,7 @@
 
   <p align='center'>
     💻 My workspace<br/><br/>
-    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/AMD-Ryzen%207%209800%20X3D-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white&color=darkorange" />
     <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/nvidia-rtx%204080%20Super-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />

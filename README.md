@@ -1,4 +1,4 @@
-# Hi 👋🏽, I'm Guilherme Gomes
+# 🚀 Hi, I'm Guilherme Gomes
 
   <p align="center">
     Welcome to my portfolio! Here you can find some curiosities about me and even contact me.

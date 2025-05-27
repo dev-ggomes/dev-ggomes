@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Guilherme Gomes
 
   <p align="center">
-    Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
+    :octocat:Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
   </p>
 
   <!-- \\\\\\\ - SPONSOR & LINKEDIN LINKS - /////// -->
@@ -16,7 +16,7 @@
 
 <!-- \\\\\\\ - PROFILE VIEWS & FOLLOW BUTTON - /////// -->
   <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=dev-ggomes&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat&abbreviated=true">
+   <img src="https://komarev.com/ghpvc/?username=dev-ggomes&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat&abbreviated=flase">
    <img src="https://img.shields.io/github/followers/dev-ggomes?label=Follow&style=social">
   </p>
 

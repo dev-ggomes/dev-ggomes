@@ -28,7 +28,7 @@
       
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ggomes&theme=dracula&background=000&border_radius=10&exclude_days=Sat,Sun&fire=e259ff&ring=e259ff&stroke=e259ff&border=e259ff&sideLabels=79DAFA&sideNums=79DAFA" alt="Guilherme Gomes's streak" style="width: 424px;"/>
       
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ggomes&color=79DAFA&bg_color=000&area=true&title_color=e259ff&custom_title=My%20Contribution%20Graph&line=e259ff" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ggomes&color=79DAFA&bg_color=000&area=true&title_color=79DAFA&custom_title=My%20Contribution%20Graph&line=e259ff" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
     </a>
   </p>
   <!---->

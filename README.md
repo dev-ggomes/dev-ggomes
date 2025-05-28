@@ -24,11 +24,11 @@
   <!---->
   <p align="center">
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=dev-ggomes&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" style="width: 400px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=dev-ggomes&show_icons=true&theme=dracula&text_color=79DAFA&count_private=true&include_all_commits=false&custom_title=My%20Github%20Stats&bg_color=000&border_radius=10&border_color=e259ff&icon_color=e259ff&title_color=e259ff" alt="Estatísticas do GitHub" style="width: 400px;"/>
       
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ggomes&theme=dracula" alt="Guilherme Gomes's streak" style="width: 424px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ggomes&theme=dracula&background=000&border_radius=10&exclude_days=Sat,Sun&fire=e259ff&ring=e259ff&stroke=e259ff&border=e259ff&sideLabels=79DAFA&sideNums=79DAFA" alt="Guilherme Gomes's streak" style="width: 424px;"/>
       
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ggomes&theme=dracula" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ggomes&color=79DAFA&bg_color=000&area=true&title_color=e259ff&custom_title=My%20Contribution%20Graph&line=e259ff" alt="Guilherme Gomes's stats" style="width: 46rem;"/>
     </a>
   </p>
   <!---->

@@ -21,7 +21,7 @@
   </p>
 
   <!-- \\\\\\\ CASO ALGUM DÊ ERRO /////// -->
-  <!---->
+  <!--
   <p align="center">
     <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=dev-ggomes&show_icons=true&theme=dracula&text_color=79DAFA&count_private=true&include_all_commits=false&custom_title=My%20Github%20Stats&bg_color=000&border_radius=10&border_color=e259ff&icon_color=e259ff&title_color=e259ff&rank_icon=default" alt="Estatísticas do GitHub" style="width: 400px;"/> <!-- SE QUISERES A PERCENTAGEM DO TOP DO RANK TROCA O "&rank_icon=default" PARA "&rank_icon=percentile" -->

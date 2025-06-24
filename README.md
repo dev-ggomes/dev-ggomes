@@ -34,7 +34,7 @@
   <!---->
 
 <!-- \\\\\\\ - OUTRA MANEIRA DE APRESENTAR OS DADOS - /////// -->
-<!---->
+<!--
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ggomes&theme=dracula&layout=compact&custom_title=GGomes%20Most%20Used%20Languages&bg_color=000&title_color=79DAFA&border_radius=10&border_color=e259ff&text_color=fff" alt="Guilherme Gomes's most used languages" style="width: 18rem;"/>

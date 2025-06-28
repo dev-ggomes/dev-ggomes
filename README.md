@@ -20,6 +20,7 @@
    <img src="https://img.shields.io/github/followers/dev-ggomes?label=Follow&style=social">
   </p>
 
+<!-- \\\\\\\ - WAKATIME - /////// -->
   <div align="center">
     
    [![wakatime](https://wakatime.com/badge/user/5d3a3c66-1ad6-4a27-afc6-989c7daf8c02.svg)](https://wakatime.com/@5d3a3c66-1ad6-4a27-afc6-989c7daf8c02)
@@ -27,7 +28,6 @@
   </div>
 
  
-
   <!-- \\\\\\\ CASO ALGUM DÊ ERRO /////// -->
   <!---->
   <p align="center">

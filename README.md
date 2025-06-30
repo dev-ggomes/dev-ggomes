@@ -74,9 +74,17 @@
     📫 How to reach me: <a href="mailto:gomesguilherme.pt@gmail.com">gomesguilherme.pt@gmail.com</a>
   </p>
 
+<!-- \\\\\\\\ - FRASE DO DIA - //////// -->
+
+<div align="center">
+  
+  #### Today's sentence
+
+</div>
+
   <p align="center">
     <!-- phrase-start -->
-    
+      Aqui fica a frase do dia
     <!-- phrase-end -->
   </p>
 

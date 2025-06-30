@@ -14,19 +14,14 @@
     </a>
   </p>
 
-<!-- \\\\\\\ - PROFILE VIEWS & FOLLOW BUTTON - /////// -->
-  <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=dev-ggomes&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat"> <!-- SE QUISERES ABREVIADO METE ISTO NO FIM "&abbreviated=true" -->
-   <img src="https://img.shields.io/github/followers/dev-ggomes?label=Follow&style=social">
-  </p>
-
-<!-- \\\\\\\ - WAKATIME - /////// -->
+<!-- \\\\\\\ - PROFILE VIEWS + WAKATIME + FOLLOW BUTTON - /////// -->
   <div align="center">
     
-   [![wakatime](https://wakatime.com/badge/user/5d3a3c66-1ad6-4a27-afc6-989c7daf8c02.svg)](https://wakatime.com/@5d3a3c66-1ad6-4a27-afc6-989c7daf8c02)
+   <img src="https://komarev.com/ghpvc/?username=dev-ggomes&label=PROFILE+VIEWS+%20&color=ff69b4&style=flat"> <!-- SE QUISERES ABREVIADO METE ISTO NO FIM "&abbreviated=true" -->
+    [![wakatime](https://wakatime.com/badge/user/5d3a3c66-1ad6-4a27-afc6-989c7daf8c02.svg)](https://wakatime.com/@5d3a3c66-1ad6-4a27-afc6-989c7daf8c02)
+   <img src="https://img.shields.io/github/followers/dev-ggomes?label=Follow&style=social">
    
   </div>
-
  
   <!-- \\\\\\\ CASO ALGUM DÊ ERRO /////// -->
   <!---->

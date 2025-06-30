@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Aqui fica a frase do dia
+      quote 2 teste
     <!-- phrase-end -->
   </p>
 

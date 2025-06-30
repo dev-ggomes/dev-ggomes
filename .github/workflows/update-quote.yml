@@ -2,7 +2,7 @@ name: Atualizar frase do README
 
 on:
   schedule:
-    - cron: "*0 0 * * *"  # a cada minuto
+    - cron: "*0 0 * * *"   # às 00:00 de Lisboa todos os dias
   workflow_dispatch:       # permite disparar manualmente
 
 jobs:

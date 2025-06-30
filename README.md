@@ -74,6 +74,11 @@
     📫 How to reach me: <a href="mailto:gomesguilherme.pt@gmail.com">gomesguilherme.pt@gmail.com</a>
   </p>
 
+  <p align="center">
+    <!-- phrase-start -->
+    <!-- phrase-end -->
+  </p>
+
   <details>
     <summary>📃 Resume</summary>
 

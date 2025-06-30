@@ -1,10 +1,9 @@
-# .github/workflows/update-quote.yml
 name: Atualizar frase do README
 
 on:
   schedule:
-    - cron: "*/10 * * * *"    # a cada minuto
-  workflow_dispatch:         # permite disparar manualmente
+    - cron: "*/1 * * * *"  # a cada minuto
+  workflow_dispatch:       # permite disparar manualmente
 
 jobs:
   update-readme:
@@ -14,7 +13,7 @@ jobs:
       - name: Checar código
         uses: actions/checkout@v3
         with:
-          ref: main         # ou sua branch padrão
+          ref: main           # ou a sua branch padrão
 
       - name: Configurar Python
         uses: actions/setup-python@v4
@@ -31,7 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          # só comita se houve mudança
+          git add README.md quotes.txt
           git diff --cached --quiet || git commit -m "🔄 chore: atualizar frase motivacional"
           git push

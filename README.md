@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      quote 2 teste
+      quote 3 teste
     <!-- phrase-end -->
   </p>
 

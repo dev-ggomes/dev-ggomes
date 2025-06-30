@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      quote 3 teste
+      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
     <!-- phrase-end -->
   </p>
 

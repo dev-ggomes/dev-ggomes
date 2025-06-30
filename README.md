@@ -75,10 +75,9 @@
   </p>
 
 <!-- \\\\\\\\ - FRASE DO DIA - //////// -->
-
 <div align="center">
   
-  #### Today's sentence
+  #### 📖 Today's sentence
 
 </div>
 

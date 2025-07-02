@@ -1,4 +1,7 @@
-# 🚀 Hi, I'm Guilherme Gomes
+<!-- \\\\\\\ - "HELLO, I'M GUILHERME GOMES!" | "WELCOME TO MY PROFILE!" - /////// -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Guilherme+Gomes!;Welcome+to+my+profile!&center=true&width=500&height=28">
+  </p>
 
   <p align="center">
     :octocat:Welcome to my portfolio! Here you can find some curiosities about me and even contact me.

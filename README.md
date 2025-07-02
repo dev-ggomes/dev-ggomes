@@ -80,7 +80,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

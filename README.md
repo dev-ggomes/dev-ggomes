@@ -95,7 +95,7 @@
   ## 🚀 About me
   
   🔞 18yo.  
-  👨🏽‍💻 Coding since 2022!  
+  👨🏽‍💻 Coding since 2020!  
   🌍 Portuguese programmer.  
   💡 In love with the idea of improving the tech world.
     

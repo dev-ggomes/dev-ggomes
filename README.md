@@ -1,6 +1,6 @@
 <!-- \\\\\\\ - "HELLO, I'M GUILHERME GOMES!" | "WELCOME TO MY PROFILE!" - /////// -->
   <p align="center">
-    <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Guilherme+Gomes!;Welcome+to+my+profile!&center=true&width=500&height=28"></a>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=user@github:~$+whoami;Hello%2C+I'm+Guilherme+Gomes!;Full+Stack+Dev;Welcome+to+my+profile!;&center=true&width=500&height=28&color=FFF"></a>
   </p>
 
   <p align="center">

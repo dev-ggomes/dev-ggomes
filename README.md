@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
+      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
     <!-- phrase-end -->
   </p>
 

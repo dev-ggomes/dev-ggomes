@@ -87,6 +87,12 @@
     <!-- phrase-end -->
   </p>
 
+  <div align="center">
+    <a href="https://www.buymeacoffee.com/dev.ggomes" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" >
+    </a>
+  </div>
+
   <details>
     <summary>📃 Resume</summary>
 

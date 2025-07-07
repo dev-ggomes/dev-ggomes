@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Keep your face always toward the sunshine, and shadows will fall behind you.
+      You're braver than you believe, stronger than you seem, and smarter than you think.
     <!-- phrase-end -->
   </p>
 

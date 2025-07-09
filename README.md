@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
+      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
     <!-- phrase-end -->
   </p>
 

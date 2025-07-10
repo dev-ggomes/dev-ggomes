@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

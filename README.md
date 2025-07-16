@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

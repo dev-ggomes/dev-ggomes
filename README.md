@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Persist until it becomes easy.
+      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
     <!-- phrase-end -->
   </p>
 

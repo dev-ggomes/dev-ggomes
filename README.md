@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
+      Don't limit your challenges, challenge your limits.
     <!-- phrase-end -->
   </p>
 

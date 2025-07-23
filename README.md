@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
+      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
     <!-- phrase-end -->
   </p>
 

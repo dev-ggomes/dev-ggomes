@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Happiness is not by chance, but by choice.
+      To live a creative life, we must lose our fear of being wrong.
     <!-- phrase-end -->
   </p>
 

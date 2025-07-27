@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Start where you are. Use what you have. Do what you can.
+      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
     <!-- phrase-end -->
   </p>
 

@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

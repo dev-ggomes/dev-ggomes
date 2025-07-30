@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
+      Every bird that flies has overcome the fear of falling.
     <!-- phrase-end -->
   </p>
 

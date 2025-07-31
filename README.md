@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

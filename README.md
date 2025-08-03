@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Start where you are. Use what you have. Do what you can.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

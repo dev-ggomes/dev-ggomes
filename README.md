@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      You're braver than you believe, stronger than you seem, and smarter than you think.
+      Happiness is not by chance, but by choice.
     <!-- phrase-end -->
   </p>
 

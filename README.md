@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

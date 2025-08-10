@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      The only time you fail is when you fall down and stay down.
+      Don't limit your challenges, challenge your limits.
     <!-- phrase-end -->
   </p>
 

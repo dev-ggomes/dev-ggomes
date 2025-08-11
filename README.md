@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don't limit your challenges, challenge your limits.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

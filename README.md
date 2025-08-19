@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      You're braver than you believe, stronger than you seem, and smarter than you think.
+      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
     <!-- phrase-end -->
   </p>
 

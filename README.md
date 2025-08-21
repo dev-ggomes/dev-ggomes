@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
+      Keep your face always toward the sunshine, and shadows will fall behind you.
     <!-- phrase-end -->
   </p>
 

@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Keep your face always toward the sunshine, and shadows will fall behind you.
+      Change your thoughts and you change your world.
     <!-- phrase-end -->
   </p>
 

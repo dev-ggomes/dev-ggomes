@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Failure is the condiment that gives success its flavor.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

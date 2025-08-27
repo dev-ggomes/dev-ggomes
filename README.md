@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
     <!-- phrase-end -->
   </p>
 

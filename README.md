@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every day may not be good, but there's something good in every day.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

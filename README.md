@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Persist until it becomes easy.
+      Change your thoughts and you change your world.
     <!-- phrase-end -->
   </p>
 

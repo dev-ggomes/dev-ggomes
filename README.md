@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Failure is the condiment that gives success its flavor.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

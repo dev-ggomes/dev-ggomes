@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      To live a creative life, we must lose our fear of being wrong.
     <!-- phrase-end -->
   </p>
 

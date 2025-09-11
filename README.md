@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Keep your face always toward the sunshine, and shadows will fall behind you.
+      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
     <!-- phrase-end -->
   </p>
 

@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
+      It's not whether you get knocked down, it's whether you get up.
     <!-- phrase-end -->
   </p>
 

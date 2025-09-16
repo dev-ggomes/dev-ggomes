@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      Don’t stop when you’re tired. Stop when you’re done.
     <!-- phrase-end -->
   </p>
 

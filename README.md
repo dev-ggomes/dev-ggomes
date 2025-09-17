@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don’t stop when you’re tired. Stop when you’re done.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

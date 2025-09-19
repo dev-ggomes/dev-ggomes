@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don’t stop when you’re tired. Stop when you’re done.
+      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
     <!-- phrase-end -->
   </p>
 

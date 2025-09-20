@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
+      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
     <!-- phrase-end -->
   </p>
 

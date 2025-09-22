@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
+      Start where you are. Use what you have. Do what you can.
     <!-- phrase-end -->
   </p>
 

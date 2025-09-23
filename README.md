@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Start where you are. Use what you have. Do what you can.
+      Don't limit your challenges, challenge your limits.
     <!-- phrase-end -->
   </p>
 

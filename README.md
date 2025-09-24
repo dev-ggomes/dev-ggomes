@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don't limit your challenges, challenge your limits.
+      Don’t stop when you’re tired. Stop when you’re done.
     <!-- phrase-end -->
   </p>
 

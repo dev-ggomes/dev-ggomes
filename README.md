@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don’t stop when you’re tired. Stop when you’re done.
+      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
     <!-- phrase-end -->
   </p>
 

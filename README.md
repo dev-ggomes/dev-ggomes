@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
+      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
     <!-- phrase-end -->
   </p>
 

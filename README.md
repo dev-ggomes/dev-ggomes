@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
+      Happiness is not by chance, but by choice.
     <!-- phrase-end -->
   </p>
 

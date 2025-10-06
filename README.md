@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

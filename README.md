@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Change your thoughts and you change your world.
+      Start where you are. Use what you have. Do what you can.
     <!-- phrase-end -->
   </p>
 

@@ -159,13 +159,13 @@
     <summary>💻 My PC</summary>
 
    - **Graphic Card:**\
-  Nvidia RTX 4080 SUPER
+  Nvidia RTX 5060
    
    - **Motherboard:**\
   Asus TUF Gaming B650-E WIFI 
   
    - **CPU:**\
-  AMD Ryzen 7 9800X3D
+  AMD Ryzen 5 9600X
 
    - **SSD:**\
   Crucial P3 Plus 1TB 5000/3600MB\

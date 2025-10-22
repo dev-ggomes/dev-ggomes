@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Start where you are. Use what you have. Do what you can.
+      Every bird that flies has overcome the fear of falling.
     <!-- phrase-end -->
   </p>
 

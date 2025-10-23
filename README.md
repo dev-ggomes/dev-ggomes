@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
     <!-- phrase-end -->
   </p>
 

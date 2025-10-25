@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      All progress takes place outside the comfort zone.
+      It's not whether you get knocked down, it's whether you get up.
     <!-- phrase-end -->
   </p>
 

@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Change your thoughts and you change your world.
+      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
     <!-- phrase-end -->
   </p>
 

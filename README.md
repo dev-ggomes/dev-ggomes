@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

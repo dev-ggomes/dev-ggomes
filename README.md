@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Change your thoughts and you change your world.
+      To live a creative life, we must lose our fear of being wrong.
     <!-- phrase-end -->
   </p>
 

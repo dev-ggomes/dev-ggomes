@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      To live a creative life, we must lose our fear of being wrong.
+      "Those who never change their minds, never change anything." —Winston S. Churchill.
     <!-- phrase-end -->
   </p>
 

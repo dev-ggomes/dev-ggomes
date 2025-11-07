@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      "Those who never change their minds, never change anything." —Winston S. Churchill.
+      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
     <!-- phrase-end -->
   </p>
 

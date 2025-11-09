@@ -83,7 +83,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      To live a creative life, we must lose our fear of being wrong.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

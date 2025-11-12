@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      Don't limit your challenges, challenge your limits.
     <!-- phrase-end -->
   </p>
 

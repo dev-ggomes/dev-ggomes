@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don't limit your challenges, challenge your limits.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

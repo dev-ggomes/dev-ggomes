@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Happiness is not by chance, but by choice.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

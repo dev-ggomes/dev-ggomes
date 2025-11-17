@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      The only time you fail is when you fall down and stay down.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      "Those who never change their minds, never change anything." —Winston S. Churchill.
+      Change your thoughts and you change your world.
     <!-- phrase-end -->
   </p>
 

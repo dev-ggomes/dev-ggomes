@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Change your thoughts and you change your world.
+      You're braver than you believe, stronger than you seem, and smarter than you think.
     <!-- phrase-end -->
   </p>
 

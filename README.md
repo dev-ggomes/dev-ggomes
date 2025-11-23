@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      "Those who never change their minds, never change anything." —Winston S. Churchill.
+      “Success is not final, failure is not fatal: it is the courage to continue that counts.” —Winston S. Churchill.
     <!-- phrase-end -->
   </p>
 

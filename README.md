@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

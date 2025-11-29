@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      To live a creative life, we must lose our fear of being wrong.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

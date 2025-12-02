@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
+      You're braver than you believe, stronger than you seem, and smarter than you think.
     <!-- phrase-end -->
   </p>
 

@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

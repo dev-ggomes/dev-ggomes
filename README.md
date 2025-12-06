@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      You're braver than you believe, stronger than you seem, and smarter than you think.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

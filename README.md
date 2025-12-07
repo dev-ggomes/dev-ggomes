@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      All progress takes place outside the comfort zone.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

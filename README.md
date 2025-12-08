@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      The only time you fail is when you fall down and stay down.
+      You're braver than you believe, stronger than you seem, and smarter than you think.
     <!-- phrase-end -->
   </p>
 

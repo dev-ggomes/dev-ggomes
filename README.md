@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Happiness is not by chance, but by choice.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

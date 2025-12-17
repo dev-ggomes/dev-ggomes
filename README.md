@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
+      Every bird that flies has overcome the fear of falling.
     <!-- phrase-end -->
   </p>
 

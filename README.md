@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      All progress takes place outside the comfort zone.
+      Change your thoughts and you change your world.
     <!-- phrase-end -->
   </p>
 

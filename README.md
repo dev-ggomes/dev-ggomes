@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Persist until it becomes easy.
+      Happiness is not by chance, but by choice.
     <!-- phrase-end -->
   </p>
 

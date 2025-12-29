@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

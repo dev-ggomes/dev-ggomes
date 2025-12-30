@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      All progress takes place outside the comfort zone.
+      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
     <!-- phrase-end -->
   </p>
 

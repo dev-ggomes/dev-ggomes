@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
+      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
     <!-- phrase-end -->
   </p>
 

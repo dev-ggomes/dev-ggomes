@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      “Success is not final, failure is not fatal: it is the courage to continue that counts.” —Winston S. Churchill.
     <!-- phrase-end -->
   </p>
 

@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      Don’t stop when you’re tired. Stop when you’re done.
     <!-- phrase-end -->
   </p>
 

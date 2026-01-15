@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
     <!-- phrase-end -->
   </p>
 

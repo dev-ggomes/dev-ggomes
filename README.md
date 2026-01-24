@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Failure is the condiment that gives success its flavor.
+      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
     <!-- phrase-end -->
   </p>
 

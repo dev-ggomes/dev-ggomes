@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is not final, failure is not fatal: it is the courage to continue that counts.” —Winston S. Churchill.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

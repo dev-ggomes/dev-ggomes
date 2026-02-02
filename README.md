@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Failure is the condiment that gives success its flavor.
+      Keep your face always toward the sunshine, and shadows will fall behind you.
     <!-- phrase-end -->
   </p>
 

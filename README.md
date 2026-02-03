@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Keep your face always toward the sunshine, and shadows will fall behind you.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

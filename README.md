@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don't limit your challenges, challenge your limits.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      You're braver than you believe, stronger than you seem, and smarter than you think.
     <!-- phrase-end -->
   </p>
 

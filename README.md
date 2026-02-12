@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
+      Start where you are. Use what you have. Do what you can.
     <!-- phrase-end -->
   </p>
 

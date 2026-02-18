@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
+      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
     <!-- phrase-end -->
   </p>
 

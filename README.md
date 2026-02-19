@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
+      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
     <!-- phrase-end -->
   </p>
 

@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

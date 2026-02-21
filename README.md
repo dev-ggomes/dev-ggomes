@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      The only time you fail is when you fall down and stay down.
+      Keep your face always toward the sunshine, and shadows will fall behind you.
     <!-- phrase-end -->
   </p>
 

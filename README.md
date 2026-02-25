@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don’t stop when you’re tired. Stop when you’re done.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

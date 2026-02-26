@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      All progress takes place outside the comfort zone.
+      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
     <!-- phrase-end -->
   </p>
 

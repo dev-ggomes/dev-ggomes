@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
+      Start where you are. Use what you have. Do what you can.
     <!-- phrase-end -->
   </p>
 

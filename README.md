@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Start where you are. Use what you have. Do what you can.
+      To live a creative life, we must lose our fear of being wrong.
     <!-- phrase-end -->
   </p>
 

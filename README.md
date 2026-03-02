@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      Start where you are. Use what you have. Do what you can.
     <!-- phrase-end -->
   </p>
 

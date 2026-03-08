@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      All progress takes place outside the comfort zone.
+      "Those who never change their minds, never change anything." —Winston S. Churchill.
     <!-- phrase-end -->
   </p>
 

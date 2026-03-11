@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      To live a creative life, we must lose our fear of being wrong.
+      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
     <!-- phrase-end -->
   </p>
 

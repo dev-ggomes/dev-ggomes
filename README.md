@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
+      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
     <!-- phrase-end -->
   </p>
 

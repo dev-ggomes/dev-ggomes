@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      "Those who never change their minds, never change anything." —Winston S. Churchill.
+      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
     <!-- phrase-end -->
   </p>
 

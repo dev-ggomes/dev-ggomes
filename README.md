@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      Happiness is not by chance, but by choice.
     <!-- phrase-end -->
   </p>
 

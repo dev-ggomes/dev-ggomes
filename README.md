@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      To live a creative life, we must lose our fear of being wrong.
+      Don't limit your challenges, challenge your limits.
     <!-- phrase-end -->
   </p>
 

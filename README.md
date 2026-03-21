@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don't limit your challenges, challenge your limits.
+      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
     <!-- phrase-end -->
   </p>
 

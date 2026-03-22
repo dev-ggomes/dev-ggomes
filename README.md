@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
+      “Success is not final, failure is not fatal: it is the courage to continue that counts.” —Winston S. Churchill.
     <!-- phrase-end -->
   </p>
 

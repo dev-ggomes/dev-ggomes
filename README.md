@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is not final, failure is not fatal: it is the courage to continue that counts.” —Winston S. Churchill.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

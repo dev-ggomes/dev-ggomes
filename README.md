@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Persist until it becomes easy.
+      To live a creative life, we must lose our fear of being wrong.
     <!-- phrase-end -->
   </p>
 

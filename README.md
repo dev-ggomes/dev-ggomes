@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      "Those who never change their minds, never change anything." —Winston S. Churchill.
+      Every bird that flies has overcome the fear of falling.
     <!-- phrase-end -->
   </p>
 

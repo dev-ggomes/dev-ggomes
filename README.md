@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

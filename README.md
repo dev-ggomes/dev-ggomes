@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Failure is the condiment that gives success its flavor.
+      Don’t stop when you’re tired. Stop when you’re done.
     <!-- phrase-end -->
   </p>
 

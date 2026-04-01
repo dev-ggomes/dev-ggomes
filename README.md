@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don’t stop when you’re tired. Stop when you’re done.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

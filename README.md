@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      You're braver than you believe, stronger than you seem, and smarter than you think.
+      "Those who never change their minds, never change anything." —Winston S. Churchill.
     <!-- phrase-end -->
   </p>
 

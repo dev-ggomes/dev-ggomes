@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
+      It's not whether you get knocked down, it's whether you get up.
     <!-- phrase-end -->
   </p>
 

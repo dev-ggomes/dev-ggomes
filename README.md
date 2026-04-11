@@ -84,7 +84,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

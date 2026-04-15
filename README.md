@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

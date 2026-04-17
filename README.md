@@ -1,10 +1,10 @@
 <!-- \\\\\\\ - "HELLO, I'M GUILHERME GOMES!" | "WELCOME TO MY PROFILE!" - /////// -->
   <p align="center">
-    <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=user@github:~$+whoami;Hello%2C+I'm+Guilherme+Gomes!;Full+Stack+and+Game+in+Web+Dev;Welcome+to+my+profile!;&center=true&width=500&height=28&color=FFF"></a>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com/?lines=user@github:~$+whoami;Hello%2C+I'm+Guilherme+Gomes!;Full+Stack+and+Game+in+Web+Dev;Welcome+to+my+profile!;&center=true&width=500&height=28&color=E259FF"></a>
   </p>
 
   <p align="center">
-    :octocat:Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
+    :octocat: Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
   </p>
 
   <!-- \\\\\\\ - SPONSOR & LINKEDIN LINKS - /////// -->

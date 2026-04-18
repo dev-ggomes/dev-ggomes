@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Start where you are. Use what you have. Do what you can.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

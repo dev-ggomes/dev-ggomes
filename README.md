@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      All progress takes place outside the comfort zone.
+      Happiness is not by chance, but by choice.
     <!-- phrase-end -->
   </p>
 

@@ -103,7 +103,7 @@
   
   ## 🚀 About me
   
-  🔞 18yo.  
+  :bust_in_silhouette: 19yo.  
   👨🏽‍💻 Coding since 2020!  
   🌍 Portuguese programmer.  
   💡 In love with the idea of improving the tech world.

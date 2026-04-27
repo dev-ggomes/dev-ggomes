@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      To live a creative life, we must lose our fear of being wrong.
+      Keep your face always toward the sunshine, and shadows will fall behind you.
     <!-- phrase-end -->
   </p>
 

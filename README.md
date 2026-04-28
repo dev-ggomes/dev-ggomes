@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Keep your face always toward the sunshine, and shadows will fall behind you.
+      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
     <!-- phrase-end -->
   </p>
 

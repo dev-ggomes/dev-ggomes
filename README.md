@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
+      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
     <!-- phrase-end -->
   </p>
 

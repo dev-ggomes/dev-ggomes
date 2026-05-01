@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don’t stop when you’re tired. Stop when you’re done.
+      Don't limit your challenges, challenge your limits.
     <!-- phrase-end -->
   </p>
 

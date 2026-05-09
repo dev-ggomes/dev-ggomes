@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      You're braver than you believe, stronger than you seem, and smarter than you think.
+      Don’t stop when you’re tired. Stop when you’re done.
     <!-- phrase-end -->
   </p>
 

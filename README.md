@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
+      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
     <!-- phrase-end -->
   </p>
 

@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don’t stop when you’re tired. Stop when you’re done.
+      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
     <!-- phrase-end -->
   </p>
 

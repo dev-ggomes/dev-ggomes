@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
+      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
     <!-- phrase-end -->
   </p>
 

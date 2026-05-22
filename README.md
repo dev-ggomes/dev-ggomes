@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
+      Change your thoughts and you change your world.
     <!-- phrase-end -->
   </p>
 

@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Change your thoughts and you change your world.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
+      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
     <!-- phrase-end -->
   </p>
 

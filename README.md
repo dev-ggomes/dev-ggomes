@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

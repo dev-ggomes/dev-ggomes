@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
+      Keep your face always toward the sunshine, and shadows will fall behind you.
     <!-- phrase-end -->
   </p>
 

@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
+      It's not whether you get knocked down, it's whether you get up.
     <!-- phrase-end -->
   </p>
 

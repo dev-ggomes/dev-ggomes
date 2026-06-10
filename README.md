@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Keep your face always toward the sunshine, and shadows will fall behind you.
+      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
     <!-- phrase-end -->
   </p>
 

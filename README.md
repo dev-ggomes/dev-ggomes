@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
     <!-- phrase-end -->
   </p>
 

@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      To live a creative life, we must lose our fear of being wrong.
+      “Success is getting what you want; happiness is wanting what you get.” ―W. P. Kinsella.
     <!-- phrase-end -->
   </p>
 

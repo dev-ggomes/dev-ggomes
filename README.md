@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
+      Every bird that flies has overcome the fear of falling.
     <!-- phrase-end -->
   </p>
 

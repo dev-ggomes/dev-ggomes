@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      Don't limit your challenges, challenge your limits.
     <!-- phrase-end -->
   </p>
 

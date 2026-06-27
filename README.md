@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Don't limit your challenges, challenge your limits.
+      "Those who never change their minds, never change anything." —Winston S. Churchill.
     <!-- phrase-end -->
   </p>
 

@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      To live a creative life, we must lose our fear of being wrong.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

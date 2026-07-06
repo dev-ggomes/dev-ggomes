@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Persist until it becomes easy.
+      "Those who never change their minds, never change anything." —Winston S. Churchill.
     <!-- phrase-end -->
   </p>
 

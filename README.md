@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every bird that flies has overcome the fear of falling.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

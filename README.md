@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Failure is the condiment that gives success its flavor.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

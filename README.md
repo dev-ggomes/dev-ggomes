@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Start where you are. Use what you have. Do what you can.
+      Happiness is not by chance, but by choice.
     <!-- phrase-end -->
   </p>
 

@@ -86,7 +86,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Happiness is not by chance, but by choice.
+      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
     <!-- phrase-end -->
   </p>
 

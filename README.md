@@ -29,7 +29,7 @@
  
   <!-- \\\\\\\ CASO ALGUM DÊ ERRO /////// -->
   <!---->
-<div style="with: 400px;">
+<div style="width: 400px;">
   
   [![Guilherme Gomes's GitHub stats](https://github-stats-extended.vercel.app/api?username=dev-ggomes&show_icons=true&theme=dracula&text_color=79DAFA&count_private=true&custom_title=My%20Github%20Stats&bg_color=000&border_radius=10&border_color=e259ff&icon_color=e259ff&title_color=e259ff&rank_icon=rank)](https://github.com/stats-organization/github-stats-extended)
 

@@ -61,7 +61,7 @@
 <!---->
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-ggomes&rank=-C,-?&row=1&column=6&margin-w=15&margin-h=8&no-frame=true&no-bg=false&theme=dracula" alt="Guilherme Gomes's trophies" />
+    <img src="https://github-profile-repo.vercel.app/?username=dev-ggomes&rank=-C,-?&row=1&column=6&margin-w=15&margin-h=8&no-frame=true&no-bg=false&theme=dracula" alt="Guilherme Gomes's trophies" />
   </a>
 </p>
 <!---->

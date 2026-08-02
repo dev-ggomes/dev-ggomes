@@ -4,7 +4,9 @@
   </p>
 
   <p align="center">
-    :octocat: Welcome to my portfolio! Here you can find some curiosities about me and even contact me.
+    :octocat: Welcome to 
+    <a href="https://dev-ggomes.github.io/professional-portfolio/">my portfolio</a>! 
+      Here you can find some curiosities about me and even contact me.
   </p>
 
   <!-- \\\\\\\ - SPONSOR & LINKEDIN LINKS - /////// -->

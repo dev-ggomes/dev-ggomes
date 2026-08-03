@@ -75,7 +75,7 @@
   </p>
 
   <p align='center'>
-    Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/GomesGuilhermePT07'>sponsor me ❤️</a>
+    Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> or <a href='https://github.com/sponsors/dev-ggomes'>sponsor me ❤️</a>
   </p>
   
   <p align="center">

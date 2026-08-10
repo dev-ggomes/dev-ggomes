@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every day may not be good, but there's something good in every day.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

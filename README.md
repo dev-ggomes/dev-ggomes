@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is not final; failure is not fatal: It is the courage to continue that counts.” —Winston Churchill.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

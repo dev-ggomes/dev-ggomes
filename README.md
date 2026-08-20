@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Failure is the condiment that gives success its flavor.
+      Every bird that flies has overcome the fear of falling.
     <!-- phrase-end -->
   </p>
 

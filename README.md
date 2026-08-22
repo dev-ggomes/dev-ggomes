@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

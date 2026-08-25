@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      Start where you are. Use what you have. Do what you can.
     <!-- phrase-end -->
   </p>
 

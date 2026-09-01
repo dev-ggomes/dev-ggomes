@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Every day may not be good, but there's something good in every day.
+      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
     <!-- phrase-end -->
   </p>
 

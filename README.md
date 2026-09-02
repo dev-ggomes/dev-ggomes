@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

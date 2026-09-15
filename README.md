@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      "Those who never change their minds, never change anything." —Winston S. Churchill.
+      Happiness is not by chance, but by choice.
     <!-- phrase-end -->
   </p>
 

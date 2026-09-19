@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      Change your thoughts and you change your world.
     <!-- phrase-end -->
   </p>
 

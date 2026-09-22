@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Keep your face always toward the sunshine, and shadows will fall behind you.
+      Every bird that flies has overcome the fear of falling.
     <!-- phrase-end -->
   </p>
 

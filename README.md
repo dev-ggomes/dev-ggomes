@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      The only time you fail is when you fall down and stay down.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

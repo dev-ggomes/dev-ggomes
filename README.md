@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Persist until it becomes easy.
+      All progress takes place outside the comfort zone.
     <!-- phrase-end -->
   </p>
 

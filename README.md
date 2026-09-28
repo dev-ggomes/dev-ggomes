@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      All progress takes place outside the comfort zone.
+      “Get a good idea and stay with it. Dog it, and work at it until it’s done right.” —Walt Disney.
     <!-- phrase-end -->
   </p>
 

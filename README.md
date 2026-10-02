@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Happiness is not by chance, but by choice.
+      Persist until it becomes easy.
     <!-- phrase-end -->
   </p>
 

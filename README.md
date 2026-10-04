@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      It's not whether you get knocked down, it's whether you get up.
+      “It is better to fail in originality than to succeed in imitation.” —Herman Melville.
     <!-- phrase-end -->
   </p>
 

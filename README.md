@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Start where you are. Use what you have. Do what you can.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 

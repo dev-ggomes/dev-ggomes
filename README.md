@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      Change your thoughts and you change your world.
+      Happiness is not by chance, but by choice.
     <!-- phrase-end -->
   </p>
 

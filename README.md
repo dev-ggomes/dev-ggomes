@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
+      Failure is the condiment that gives success its flavor.
     <!-- phrase-end -->
   </p>
 

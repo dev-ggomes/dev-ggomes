@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success usually comes to those who are too busy to be looking for it.” —Henry David Thoreau.
+      “You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute.” —Tina Fey.
     <!-- phrase-end -->
   </p>
 

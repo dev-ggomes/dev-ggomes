@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      The only time you fail is when you fall down and stay down.
+      It's not whether you get knocked down, it's whether you get up.
     <!-- phrase-end -->
   </p>
 

@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      "Those who never change their minds, never change anything." —Winston S. Churchill.
+      The only time you fail is when you fall down and stay down.
     <!-- phrase-end -->
   </p>
 

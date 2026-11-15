@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Perfection is not attainable. But if we chase perfection we can catch excellence.” —Vince Lombardi.
+      You're braver than you believe, stronger than you seem, and smarter than you think.
     <!-- phrase-end -->
   </p>
 

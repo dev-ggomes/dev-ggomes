@@ -91,7 +91,7 @@
 
   <p align="center">
     <!-- phrase-start -->
-      “Success is stumbling from failure to failure with no loss of enthusiasm.” ―Winston Churchill.
+      Every day may not be good, but there's something good in every day.
     <!-- phrase-end -->
   </p>
 
